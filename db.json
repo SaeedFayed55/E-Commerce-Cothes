@@ -1,0 +1,783 @@
+{
+  "usertypes": [
+    {
+      "code": "90988",
+      "name": "super admin",
+      "id": "5vcBr"
+    },
+    {
+      "code": "21254",
+      "name": "admin",
+      "id": "9Qs9D"
+    },
+    {
+      "code": "5434",
+      "name": "data entry",
+      "id": "OPmkP"
+    },
+    {
+      "code": "9876",
+      "name": "normal user",
+      "id": "9aY9y"
+    },
+    {
+      "code": "8900",
+      "name": "admin pants",
+      "id": "jZFqM"
+    }
+  ],
+  "branches": [
+    {
+      "name": "stock trade cairo 4",
+      "address": "8 degla-cairo",
+      "id": "9MbVj"
+    },
+    {
+      "name": "stock trade alex 1",
+      "address": "moharmbeh-alex-egypt",
+      "id": "iYui7"
+    },
+    [
+      {
+        "name": "stock trade cairo 4",
+        "address": "8 degla-cairo",
+        "id": "9MbVj"
+      },
+      {
+        "name": "stock trade alex 1",
+        "address": "moharmbeh-alex-egypt",
+        "id": "iYui7"
+      },
+      {
+        "name": "stock trade alex2",
+        "address": "sedibeshr2-alex-egypt",
+        "id": "UMTJF"
+      }
+    ],
+    [
+      {
+        "name": "stock trade cairo 4",
+        "address": "8 degla-cairo",
+        "id": "9MbVj"
+      },
+      {
+        "name": "stock trade alex 1",
+        "address": "moharmbeh-alex-egypt",
+        "id": "iYui7"
+      },
+      {
+        "name": "stock trade alex2",
+        "address": "sedibeshr2-alex-egypt",
+        "id": "UMTJF"
+      },
+      [
+        {
+          "name": "stock trade cairo 4",
+          "address": "8 degla-cairo",
+          "id": "9MbVj"
+        },
+        {
+          "name": "stock trade alex 1",
+          "address": "moharmbeh-alex-egypt",
+          "id": "iYui7"
+        },
+        {
+          "name": "stock trade alex2",
+          "address": "sedibeshr2-alex-egypt",
+          "id": "UMTJF"
+        }
+      ]
+    ]
+  ],
+  "allBranches": [
+    {
+      "name": "stock trader cairo",
+      "address": "cairo - egypt",
+      "id": "7KDcV"
+    },
+    {
+      "name": "stock trader alex",
+      "address": "alex-egypt",
+      "id": "AhaYA"
+    },
+    {
+      "name": "stock trader luxor",
+      "address": "luxor-egypt",
+      "id": "l8g7P"
+    },
+    {
+      "name": "stock trader kafr_elsheiksh",
+      "address": "kafrsheikh-egypt",
+      "id": "J0qbS"
+    }
+  ],
+  "users": [
+    {
+      "firstname": "sdf",
+      "acceptterms": true,
+      "lastname": "sdf",
+      "password": "12",
+      "confirmpassword": "12",
+      "zipcode": "",
+      "gender": "",
+      "email": "sdf@c.com",
+      "address": "",
+      "notes": "",
+      "selectedusertype": {
+        "code": "21254",
+        "name": "admin",
+        "id": "9Qs9D"
+      },
+      "selecteduserbranch": {
+        "name": "stock trader cairo",
+        "address": "cairo - egypt",
+        "id": "7KDcV"
+      },
+      "selectedCountry": {
+        "name": "Australia",
+        "code": "AU"
+      },
+      "id": 1
+    },
+    {
+      "firstname": "saeed",
+      "acceptterms": true,
+      "lastname": "fayed",
+      "password": "123",
+      "confirmpassword": "123",
+      "zipcode": "5365",
+      "gender": "Male",
+      "email": "alsaeedfayed@gmail.com",
+      "address": "cairo-egypt",
+      "notes": "",
+      "selectedusertype": {
+        "code": "9876",
+        "name": "normal user",
+        "id": "9aY9y"
+      },
+      "selecteduserbranch": {
+        "name": "stock trader cairo",
+        "address": "cairo - egypt",
+        "id": "7KDcV"
+      },
+      "selectedCountry": {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      "id": 2
+    }
+  ],
+  "shirts": [
+    {
+      "code": "#45",
+      "name": "sm3",
+      "imageSrc": "sm3.jpg",
+      "imageSrcc": "sm4.jpg",
+      "imageSrccc": "sm5.jpg",
+      "brand": "town team",
+      "price": "66",
+      "oldprice": "78",
+      "quantity": "30",
+      "inventoryStatus": "instock",
+      "description": "high in the stock",
+      "category": "Clothing",
+      "cardbutton": "false",
+      "id": "K4OYU"
+    },
+    {
+      "code": "#4809",
+      "name": "sm1",
+      "imageSrc": "sm1.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "ovs",
+      "price": "89",
+      "oldprice": "99",
+      "quantity": "24",
+      "inventoryStatus": "outofstock",
+      "description": "this",
+      "category": "Clothing",
+      "id": "m5K2S"
+    },
+    {
+      "code": "#214",
+      "name": "sm4",
+      "imageSrc": "sm4.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "new brand",
+      "price": "83",
+      "oldprice": "109",
+      "quantity": "77",
+      "inventoryStatus": "instock",
+      "description": "th",
+      "category": "Clothing",
+      "id": "dHz6Q"
+    },
+    {
+      "code": "#987",
+      "name": "sm5",
+      "imageSrc": "sm5.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "ovs",
+      "price": "78",
+      "oldprice": "99",
+      "quantity": "1",
+      "inventoryStatus": "lowstock",
+      "description": "k",
+      "category": "Clothing",
+      "id": "qxNu3"
+    },
+    {
+      "code": "#0981",
+      "name": "sm6",
+      "imageSrc": "sm6.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "newborn",
+      "price": "67",
+      "oldprice": "88",
+      "quantity": "0",
+      "inventoryStatus": "outofstock",
+      "description": "f",
+      "category": "Clothing",
+      "id": "xnssV"
+    },
+    {
+      "code": "#90888",
+      "name": "sm7",
+      "imageSrc": "sm7.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "ovs",
+      "price": "77",
+      "oldprice": "81",
+      "quantity": "1",
+      "inventoryStatus": "lowstock",
+      "description": "f",
+      "category": "Clothing",
+      "id": "MIx2z"
+    },
+    {
+      "code": "#0911",
+      "name": "sm8",
+      "imageSrc": "sm8.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "townteam",
+      "price": "77",
+      "oldprice": "90",
+      "quantity": "3",
+      "inventoryStatus": "instock",
+      "description": "ff",
+      "category": "Clothing",
+      "id": "wpStp"
+    },
+    {
+      "code": "#4421",
+      "name": "sm9",
+      "imageSrc": "sm9.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "zara",
+      "price": "77",
+      "oldprice": "129",
+      "quantity": "0",
+      "inventoryStatus": "outofstock",
+      "description": "m",
+      "category": "Clothing",
+      "id": "npwcN"
+    },
+    {
+      "code": "#sm10",
+      "name": "sm10",
+      "imageSrc": "sm10.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "zara",
+      "price": "55",
+      "oldprice": "89",
+      "quantity": "1",
+      "inventoryStatus": "lowstock",
+      "description": "k",
+      "category": "Clothing",
+      "id": "xijzL"
+    },
+    {
+      "code": "#sm11",
+      "name": "sm11",
+      "imageSrc": "sm11.jpg",
+      "imageSrcc": "sm3.jpg",
+      "imageSrccc": "sm4.jpg",
+      "brand": "townteam",
+      "price": "88",
+      "oldprice": "89",
+      "quantity": "12",
+      "inventoryStatus": "instock",
+      "description": "v",
+      "category": "Clothing",
+      "id": "n59rl"
+    }
+  ],
+  "pantsmen": [
+    {
+      "code": "#rett",
+      "name": "pm2",
+      "imageSrc": "pm2.jpg",
+      "brand": "ovs",
+      "price": "345",
+      "oldprice": "500",
+      "quantity": "78",
+      "inventoryStatus": "instock",
+      "description": "high in stock",
+      "id": "OxF5e",
+      "category": "Clothing"
+    },
+    {
+      "code": "#456",
+      "name": "pm1",
+      "imageSrc": "pm1.jpg",
+      "brand": "town team",
+      "price": "56",
+      "oldprice": "89",
+      "quantity": "5",
+      "inventoryStatus": "instock",
+      "description": "instock",
+      "category": "Clothing",
+      "id": "edfmK"
+    },
+    {
+      "code": "#4578",
+      "name": "pm3",
+      "imageSrc": "pm3.jpg",
+      "brand": "town team",
+      "price": "78",
+      "oldprice": "88",
+      "quantity": "56",
+      "inventoryStatus": "instock",
+      "description": "high in the stock",
+      "category": "Clothing",
+      "id": "1InVC"
+    },
+    {
+      "code": "#5678",
+      "name": "pm4",
+      "imageSrc": "pm4.jpg",
+      "brand": "new born",
+      "price": "90",
+      "oldprice": "110",
+      "quantity": "90",
+      "inventoryStatus": "instock",
+      "description": "high in the stock",
+      "category": "Clothing",
+      "id": "quoQE"
+    }
+  ],
+  "orders": [],
+  "purchase": [
+    {
+      "Name": "th",
+      "phone": "4",
+      "email": "gg@d.com",
+      "apatment": "",
+      "block": "",
+      "adress": "",
+      "deliverystate": "HomeDeliver",
+      "id": 1
+    },
+    {
+      "Name": "fgdf",
+      "phone": "445",
+      "email": "a@g.com",
+      "apatment": "",
+      "block": "",
+      "adress": "",
+      "deliverystate": "HomeDeliver",
+      "id": 2
+    }
+  ],
+  "suborder": [],
+  "pending": [],
+  "clickedproduct": [],
+  "confirmedShirts": [],
+  "originaluserOrder": [
+    {
+      "id": "4HMUr",
+      "order": {
+        "code": "#987",
+        "name": "sm5",
+        "imageSrc": "sm5.jpg",
+        "imageSrcc": "sm3.jpg",
+        "imageSrccc": "sm4.jpg",
+        "brand": "ovs",
+        "price": "78",
+        "oldprice": "99",
+        "quantity": "1",
+        "inventoryStatus": "lowstock",
+        "description": "k",
+        "category": "Clothing",
+        "id": "qxNu3"
+      },
+      "quantity": 1,
+      "size": {
+        "name": "xxxl",
+        "code": "CN"
+      },
+      "status": "delivered",
+      "userdetails": {
+        "firstname": "saeed",
+        "acceptterms": true,
+        "lastname": "fayed",
+        "password": "123",
+        "confirmpassword": "123",
+        "zipcode": "5365",
+        "gender": "Male",
+        "email": "alsaeedfayed@gmail.com",
+        "address": "cairo-egypt",
+        "notes": "",
+        "selectedusertype": {
+          "code": "9876",
+          "name": "normal user",
+          "id": "9aY9y"
+        },
+        "selecteduserbranch": {
+          "name": "stock trader cairo",
+          "address": "cairo - egypt",
+          "id": "7KDcV"
+        },
+        "selectedCountry": {
+          "name": "Egypt",
+          "code": "EG"
+        },
+        "id": 2
+      },
+      "orderDate": "Saturday, 15 January 2022, 8:47 pm",
+      "confirmDate": "Saturday, 15 January 2022, 8:49 pm",
+      "shippedDate": "Saturday, 15 January 2022, 8:50 pm",
+      "deleliverDate": "Saturday, 15 January 2022, 8:50 pm"
+    },
+    {
+      "id": "uzt0X",
+      "order": {
+        "code": "#214",
+        "name": "sm4",
+        "imageSrc": "sm4.jpg",
+        "imageSrcc": "sm3.jpg",
+        "imageSrccc": "sm4.jpg",
+        "brand": "new brand",
+        "price": "83",
+        "oldprice": "109",
+        "quantity": "77",
+        "inventoryStatus": "instock",
+        "description": "th",
+        "category": "Clothing",
+        "id": "dHz6Q"
+      },
+      "quantity": 4,
+      "size": {
+        "name": "xl",
+        "code": "AU"
+      },
+      "status": "shipped",
+      "userdetails": {
+        "firstname": "saeed",
+        "acceptterms": true,
+        "lastname": "fayed",
+        "password": "123",
+        "confirmpassword": "123",
+        "zipcode": "5365",
+        "gender": "Male",
+        "email": "alsaeedfayed@gmail.com",
+        "address": "cairo-egypt",
+        "notes": "",
+        "selectedusertype": {
+          "code": "9876",
+          "name": "normal user",
+          "id": "9aY9y"
+        },
+        "selecteduserbranch": {
+          "name": "stock trader cairo",
+          "address": "cairo - egypt",
+          "id": "7KDcV"
+        },
+        "selectedCountry": {
+          "name": "Egypt",
+          "code": "EG"
+        },
+        "id": 2
+      },
+      "orderDate": "Saturday, 9 April 2022, 12:32 am",
+      "confirmDate": "Saturday, 9 April 2022, 12:35 am",
+      "shippedDate": "Saturday, 9 April 2022, 12:36 am"
+    }
+  ],
+  "shipped": [
+    {
+      "id": "uzt0X",
+      "order": {
+        "code": "#214",
+        "name": "sm4",
+        "imageSrc": "sm4.jpg",
+        "imageSrcc": "sm3.jpg",
+        "imageSrccc": "sm4.jpg",
+        "brand": "new brand",
+        "price": "83",
+        "oldprice": "109",
+        "quantity": "77",
+        "inventoryStatus": "instock",
+        "description": "th",
+        "category": "Clothing",
+        "id": "dHz6Q"
+      },
+      "quantity": 4,
+      "size": {
+        "name": "xl",
+        "code": "AU"
+      },
+      "status": "shipped",
+      "userdetails": {
+        "firstname": "saeed",
+        "acceptterms": true,
+        "lastname": "fayed",
+        "password": "123",
+        "confirmpassword": "123",
+        "zipcode": "5365",
+        "gender": "Male",
+        "email": "alsaeedfayed@gmail.com",
+        "address": "cairo-egypt",
+        "notes": "",
+        "selectedusertype": {
+          "code": "9876",
+          "name": "normal user",
+          "id": "9aY9y"
+        },
+        "selecteduserbranch": {
+          "name": "stock trader cairo",
+          "address": "cairo - egypt",
+          "id": "7KDcV"
+        },
+        "selectedCountry": {
+          "name": "Egypt",
+          "code": "EG"
+        },
+        "id": 2
+      },
+      "orderDate": "Saturday, 9 April 2022, 12:32 am",
+      "confirmDate": "Saturday, 9 April 2022, 12:35 am",
+      "shippedDate": "Saturday, 9 April 2022, 12:36 am"
+    }
+  ],
+  "delivered": [
+    {
+      "id": "4HMUr",
+      "order": {
+        "code": "#987",
+        "name": "sm5",
+        "imageSrc": "sm5.jpg",
+        "imageSrcc": "sm3.jpg",
+        "imageSrccc": "sm4.jpg",
+        "brand": "ovs",
+        "price": "78",
+        "oldprice": "99",
+        "quantity": "1",
+        "inventoryStatus": "lowstock",
+        "description": "k",
+        "category": "Clothing",
+        "id": "qxNu3"
+      },
+      "quantity": 1,
+      "size": {
+        "name": "xxxl",
+        "code": "CN"
+      },
+      "status": "delivered",
+      "userdetails": {
+        "firstname": "saeed",
+        "acceptterms": true,
+        "lastname": "fayed",
+        "password": "123",
+        "confirmpassword": "123",
+        "zipcode": "5365",
+        "gender": "Male",
+        "email": "alsaeedfayed@gmail.com",
+        "address": "cairo-egypt",
+        "notes": "",
+        "selectedusertype": {
+          "code": "9876",
+          "name": "normal user",
+          "id": "9aY9y"
+        },
+        "selecteduserbranch": {
+          "name": "stock trader cairo",
+          "address": "cairo - egypt",
+          "id": "7KDcV"
+        },
+        "selectedCountry": {
+          "name": "Egypt",
+          "code": "EG"
+        },
+        "id": 2
+      },
+      "orderDate": "Saturday, 15 January 2022, 8:47 pm",
+      "confirmDate": "Saturday, 15 January 2022, 8:49 pm",
+      "shippedDate": "Saturday, 15 January 2022, 8:50 pm",
+      "deleliverDate": "Saturday, 15 January 2022, 8:50 pm"
+    }
+  ],
+  "confirmedIDs": [
+    {
+      "id": "K4OYU",
+      "confirmDate": "Saturday, 15 January 2022, 8:49 pm"
+    },
+    {
+      "id": "qxNu3",
+      "confirmDate": "Saturday, 15 January 2022, 8:49 pm"
+    },
+    {
+      "id": "wpStp",
+      "confirmDate": "Saturday, 15 January 2022, 8:49 pm"
+    },
+    {
+      "id": "dHz6Q",
+      "confirmDate": "Saturday, 9 April 2022, 12:35 am"
+    }
+  ],
+  "shippedIDs": [
+    {
+      "id": "qxNu3",
+      "shippedDate": "Saturday, 15 January 2022, 8:50 pm"
+    },
+    {
+      "id": "wpStp",
+      "shippedDate": "Saturday, 15 January 2022, 8:50 pm"
+    },
+    {
+      "id": "K4OYU",
+      "shippedDate": "Saturday, 15 January 2022, 8:54 pm"
+    },
+    {
+      "id": "dHz6Q",
+      "shippedDate": "Saturday, 9 April 2022, 12:36 am"
+    }
+  ],
+  "deliveredIDs": [
+    {
+      "id": "qxNu3",
+      "deleliverDate": "Saturday, 15 January 2022, 8:50 pm"
+    }
+  ],
+  "cancelledOrders": [
+    {
+      "id": "QvGgV",
+      "order": {
+        "code": "#0911",
+        "name": "sm8",
+        "imageSrc": "sm8.jpg",
+        "imageSrcc": "sm3.jpg",
+        "imageSrccc": "sm4.jpg",
+        "brand": "townteam",
+        "price": "77",
+        "oldprice": "90",
+        "quantity": "3",
+        "inventoryStatus": "instock",
+        "description": "ff",
+        "category": "Clothing",
+        "id": "wpStp"
+      },
+      "quantity": 2,
+      "size": {
+        "name": "xxl",
+        "code": "BR"
+      },
+      "status": "shipped",
+      "userdetails": {
+        "firstname": "saeed",
+        "acceptterms": true,
+        "lastname": "fayed",
+        "password": "123",
+        "confirmpassword": "123",
+        "zipcode": "5365",
+        "gender": "Male",
+        "email": "alsaeedfayed@gmail.com",
+        "address": "cairo-egypt",
+        "notes": "",
+        "selectedusertype": {
+          "code": "9876",
+          "name": "normal user",
+          "id": "9aY9y"
+        },
+        "selecteduserbranch": {
+          "name": "stock trader cairo",
+          "address": "cairo - egypt",
+          "id": "7KDcV"
+        },
+        "selectedCountry": {
+          "name": "Egypt",
+          "code": "EG"
+        },
+        "id": 2
+      },
+      "orderDate": "Saturday, 15 January 2022, 8:47 pm",
+      "confirmDate": "Saturday, 15 January 2022, 8:49 pm",
+      "shippedDate": "Saturday, 15 January 2022, 8:50 pm",
+      "reason": "Failed Delivery"
+    },
+    {
+      "id": "VJH96",
+      "order": {
+        "code": "#45",
+        "name": "sm3",
+        "imageSrc": "sm3.jpg",
+        "imageSrcc": "sm4.jpg",
+        "imageSrccc": "sm5.jpg",
+        "brand": "town team",
+        "price": "66",
+        "oldprice": "78",
+        "quantity": "30",
+        "inventoryStatus": "instock",
+        "description": "high in the stock",
+        "category": "Clothing",
+        "cardbutton": "false",
+        "id": "K4OYU"
+      },
+      "quantity": 1,
+      "size": {
+        "name": "xxl",
+        "code": "BR"
+      },
+      "status": "shipped",
+      "userdetails": {
+        "firstname": "saeed",
+        "acceptterms": true,
+        "lastname": "fayed",
+        "password": "123",
+        "confirmpassword": "123",
+        "zipcode": "5365",
+        "gender": "Male",
+        "email": "alsaeedfayed@gmail.com",
+        "address": "cairo-egypt",
+        "notes": "",
+        "selectedusertype": {
+          "code": "9876",
+          "name": "normal user",
+          "id": "9aY9y"
+        },
+        "selecteduserbranch": {
+          "name": "stock trader cairo",
+          "address": "cairo - egypt",
+          "id": "7KDcV"
+        },
+        "selectedCountry": {
+          "name": "Egypt",
+          "code": "EG"
+        },
+        "id": 2
+      },
+      "orderDate": "Saturday, 15 January 2022, 8:47 pm",
+      "confirmDate": "Saturday, 15 January 2022, 8:49 pm",
+      "shippedDate": "Saturday, 15 January 2022, 8:54 pm",
+      "reason": "Wrong address"
+    }
+  ]
+}
